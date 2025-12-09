@@ -26,7 +26,7 @@ I love turning complex ideas into elegant, production-ready solutions.
 ## 🛠️ Tech Stack Snapshot
 
 **Frontend:**  
-`Vue` • `React` • `Angular` • `Next.js` • `TypeScript` • `SCSS`
+`Vue` • `React`  • `Next.js` • `TypeScript` • `SCSS`
 
 **Backend:**  
 `Python` • `FastAPI` • `Node.js` • `REST APIs`
