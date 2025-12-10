@@ -5,7 +5,7 @@ I’m a Senior Frontend & Full-Stack Engineer with over a decade of experience c
 My work spans:
 
 - **Frontend:** Vue, React, Angular, Next.js, TypeScript  
-- **Backend:** Python (FastAPI), Node.js  
+- **Backend:** Python (FastAPI), Django, Node.js  
 - **Architecture:** Cloud-native systems, modular design, microservices
 
 I love turning complex ideas into elegant, production-ready solutions.
